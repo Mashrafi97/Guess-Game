@@ -1,0 +1,12 @@
+.playerone{
+    text-align: center;
+    padding-top: 100px;
+}
+.playertwo{
+    text-align: center;
+    padding-top: 100px;
+    display: none;
+}
+.playeroneerror{
+    color: red;
+}
